@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.blue,
         appBar: AppBar(
           backgroundColor: Colors.blue[900],
+          centerTitle: true,
           title: Text(
             'Ask me anything',
             style: TextStyle(
